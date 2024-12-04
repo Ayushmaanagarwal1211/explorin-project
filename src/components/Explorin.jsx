@@ -27,6 +27,7 @@ export default function Explorin({name,count,images}) {
       </div>
      <div className='main-image'>
         <RenderImage error={true}/>
+        
      </div>
     </div>
   )
